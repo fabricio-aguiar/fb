@@ -1,1 +1,1 @@
-projeto do banco em python
+Este é o projeto 1 de Python que pretende simular um sistema de banco onde existem várias funções. Você pode criar uma nova conta,remover, fazer depositos, tranferencias ou saques e simulação de investimentos.
